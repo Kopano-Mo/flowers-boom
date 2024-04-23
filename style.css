@@ -3,8 +3,7 @@ body {
     font-family: "Outfit", sans-serif;
 }
 
-// <uniquifier>: Use a unique and descriptive class name
-// <weight>: Use a value from 100 to 900
+
 
 .scan {
   font-family: "Outfit", sans-serif;
@@ -13,7 +12,7 @@ body {
   font-style : normal;
 } 
 
-h1{
+.coded{
   font-family: "Outfit", sans-serif;
   font-optical-sizing: auto;
   font-weight : 700;
